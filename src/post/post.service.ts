@@ -41,3 +41,7 @@ export class PostService {
   }
 
 }
+
+
+// Service
+// 애플리케이션의 경계를 저의하고 비즈니스 로직 등 도메인을 캡슐화 하는 역핧
